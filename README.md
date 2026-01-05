@@ -45,9 +45,9 @@ I'm a passionate **Game & Web Developer** from Turkey with a focus on creating i
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spyisgod&show_icons=true&theme=react&count_private=true&hide_border=false&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=3b82f6" alt="spyisgod GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spyisgod&show_icons=true&count_private=true&theme=dark" alt="spyisgod GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyisgod&layout=compact&theme=react&count_private=true&hide_border=false&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=3b82f6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyisgod&layout=compact&count_private=true&theme=dark" alt="Top Languages" />
 </div>
 
 ---
