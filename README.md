@@ -17,8 +17,6 @@
 I'm a passionate **Game & Web Developer** from Turkey with a focus on creating immersive experiences and high-performance applications. I love bridging the gap between game mechanics and web technologies.
 
 - 🔭 I’m currently working on high-end FiveM resources and modern web applications.
-- 🌱 I’m currently learning **Advanced System Architectures** and **Shader Programming**.
-- 💬 Ask me about **JavaScript, TypeScript, Lua, or React**.
 - 🌐 Visit my website: [fdevelopment.net](https://fdevelopment.net/)
 
 ---
