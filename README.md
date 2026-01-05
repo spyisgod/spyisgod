@@ -45,9 +45,9 @@ I'm a passionate **Game & Web Developer** from Turkey with a focus on creating i
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spyisgod&show_icons=true&theme=dark&hide_border=false&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=3b82f6" alt="spyisgod GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spyisgod&show_icons=true&theme=react&count_private=true&hide_border=false&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=3b82f6" alt="spyisgod GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyisgod&layout=compact&theme=dark&hide_border=false&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=3b82f6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyisgod&layout=compact&theme=react&count_private=true&hide_border=false&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&border_color=3b82f6" alt="Top Languages" />
 </div>
 
 ---
@@ -55,7 +55,7 @@ I'm a passionate **Game & Web Developer** from Turkey with a focus on creating i
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spyisgod&theme=react-dark&hide_border=false&area=true&color=3b82f6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spyisgod&theme=react&count_private=true&hide_border=false&area=true&color=3b82f6" width="100%" />
 </div>
 
 <br/>
