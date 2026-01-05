@@ -1,7 +1,7 @@
 # Hi there, I'm Spy! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Game+Developer;Web+Developer;FiveM+Expert;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Game+Developer;Web+Developer;FiveM+Game+Developer;Creative+Coder" alt="Typing SVG" />
 </div>
 
 <div align="center">
